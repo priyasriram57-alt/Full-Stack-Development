@@ -1,0 +1,8 @@
+export default function PropsExample({title,tutor})
+{
+    return<>
+    <h1>Props Example</h1>
+    <p>{title}</p>
+    <p>{tutor}</p>
+    </>
+}
